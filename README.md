@@ -40,7 +40,7 @@ If you spend **5-7 hours per week**, you can complete this roadmap in **3-4 mont
 
 ---
 
-### 🌍 **Phase 4: Advanced Topics & Projects (4-6 Weeks)**
+### 🌍 **Phase 4: Advanced Topics & Projects (6-8 Weeks)**
 - ✅ **ES6 Features** - Destructuring, Spread Operator, Template Literals
 - ✅ **APIs & Fetch** - (`fetch()`, `async-await`, `JSON`)
 - ✅ **Local Storage & Session Storage**
